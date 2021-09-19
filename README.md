@@ -1,2 +1,5 @@
-# docker_ci_cd
-Configure CI/CD for your application
+# docker-whale
+
+Run me : `docker run -p80:80 ushamandya/whale-example`
+
+Build me: `docker build -t ushamandya/whale-example .`
